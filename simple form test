@@ -1,0 +1,12 @@
+name = input ("siapa nama kamu ? ")
+year = input ("tahun lahir kamu : ")
+birth_day = input ("tempat tanggal lahir kamu : ")
+hobby = input ("apa hobby kamu ? ")
+busy = input ("apa kesibukan kamu saat ini ? ")
+sentence = name 
+age = 2022 - year
+print ("hai " + name )
+print ("tempat tanggal lahir kamu : " + birth_day)
+print ("umur kamu saat ini " + str(age))
+print("hobby kamu adalah " + hobby )
+print ("kesibukan kamu saat ini adalah " + busy)
